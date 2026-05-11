@@ -18,6 +18,18 @@ I specialize in building detection logic aligned with **MITRE ATT&CK**, automati
 
 ---
 
+## 🧠 What I Do
+ 
+```text
+🔍  Detect      →  SIEM engineering, custom correlation rules, alert tuning
+🎯  Hunt        →  Proactive threat hunting with MITRE ATT&CK
+⚡  Respond     →  Incident triage, root cause analysis, IOC investigation
+🤖  Automate    →  Python & PowerShell playbooks that cut MTTR by 40%
+☁️  Secure      →  Cloud security across AWS, Azure & GCP (IAM, RBAC, DLP)
+```
+ 
+---
+
 ## 🛡️ Security Stack
 
 ### SIEM & Monitoring
@@ -55,23 +67,18 @@ I specialize in building detection logic aligned with **MITRE ATT&CK**, automati
 - 🥇 CompTIA Security+ — 2025
 - 🎯 TryHackMe SOC Level 1 & 2 — 2025
 - 🎯 TryHackMe Jr. Penetration Tester — 2024
-- 🎯 ISC2 Certified in Cybersecurity (CC) — 2024
+- 🥇 ISC2 Certified in Cybersecurity (CC) — 2024
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🤖 Automated Threat Hunting & Incident Response Framework
-An enterprise-scale SOC automation framework integrating Splunk, QRadar, and Microsoft Sentinel with vulnerability scanners and network telemetry. Reduced incident response time by ~40% and automated 70% of repetitive SOC tasks. Built interactive security dashboards with REST API-driven threat intelligence mapping.
-
-### 🖥️ SOC Simulation & Threat Detection Platform
-Deployed a simulated SOC environment using Wazuh SIEM with MITRE ATT&CK-aligned detection rules for brute-force, privilege escalation, malware execution, and C2 activity detection.
-
-### 🔍 Vulnerability Management Program
-Risk-based vulnerability management using Nessus and Qualys across enterprise environments — from authenticated scans to CVSS-prioritized remediation roadmaps and executive reporting.
-
-### 🕵️ Incident Response & Digital Forensics Investigation
-End-to-end forensic investigations using Autopsy and Kali Linux — disk/memory artifact analysis, IOC extraction, MITRE ATT&CK mapping, and stakeholder reporting.
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 🤖 **Automated Threat Hunting & IR Framework** | Enterprise SOC automation — reduced response time ~40%, automated 70% of repetitive tasks | Splunk, QRadar, Sentinel, Python, PowerShell |
+| 🖥️ **SOC Simulation & Detection Platform** | Simulated SOC with MITRE ATT&CK-aligned rules for brute-force, privilege escalation, C2 activity | Wazuh, auditd, syslog |
+| 🔍 **Vulnerability Management Program** | Risk-based vuln management with CVSS prioritization and executive-level reporting | Nessus, Qualys, OpenVAS |
+| 🕵️ **Incident Response & Digital Forensics Lab** | Full forensic investigations — disk/memory artifacts, IOC extraction, attack timeline reconstruction | Autopsy, Kali Linux |
 
 ---
 
