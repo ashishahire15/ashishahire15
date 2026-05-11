@@ -1,6 +1,6 @@
 # 💫 About Me
 
-👋 Hi, I'm **Ashish Ahire** — a Cybersecurity Analyst based in Indianapolis, IN.
+👋 Hi, I'm **Ashish Ahire**, a Cybersecurity Analyst based in Indianapolis, IN.
 
 I'm a **SOC Analyst / Detection Engineer** with 4+ years of experience protecting enterprise and cloud environments. My expertise spans SIEM engineering, threat hunting, incident response automation, and cloud security monitoring across AWS, Azure, and GCP.
 
