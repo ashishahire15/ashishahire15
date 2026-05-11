@@ -41,6 +41,7 @@ I specialize in building detection logic aligned with **MITRE ATT&CK**, automati
 ### Threat Detection & Response
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E4002B?style=for-the-badge&logoColor=white)
 ![Nessus](https://img.shields.io/badge/Nessus-00BCD4?style=for-the-badge&logoColor=white)
+![Qualys](https://img.shields.io/badge/Qualys-ED2025?style=for-the-badge&logoColor=white)
 ![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-FF6600?style=for-the-badge&logoColor=white)
 
@@ -91,3 +92,5 @@ I specialize in building detection logic aligned with **MITRE ATT&CK**, automati
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ashishahire15&icon=0&color=0)](https://visitcount.itsvg.in)
+
+*"The quieter you become, the more you are able to hear." — in threat hunting too.*
