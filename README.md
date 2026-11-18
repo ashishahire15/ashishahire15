@@ -93,4 +93,4 @@ I specialize in building detection logic aligned with **MITRE ATT&CK**, automati
 
 [![](https://visitcount.itsvg.in/api?id=ashishahire15&icon=0&color=0)](https://visitcount.itsvg.in)
 
-*"The quieter you become, the more you are able to hear." — in threat hunting too.*
+*"The quieter you become, the more you are able to hear." - in threat hunting too.*
